@@ -12,7 +12,7 @@ from tools.security.md5_tool import md5_passwd
 '''
 
 
-print('谭静飞，你好')
+print('谭静飞，回家吃饭啦')
 def test_post_json(pub_data):
     method = "POST"  #请求方法，全部大写
     feature = "产品模块"  # allure报告中一级分类
